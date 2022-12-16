@@ -1,5 +1,7 @@
   using System;
-  namespace Task6;
+
+  namespace Task7; 
+
 public class Person{
  private string _name;   
  public string Name
